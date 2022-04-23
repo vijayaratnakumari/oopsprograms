@@ -1,4 +1,4 @@
-'''from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt
 
 # x-axis values
 x = [5, 2, 1, 4, 7]
@@ -84,7 +84,7 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.title("Stack plot")
 plt.legend()
-plt.show()'''
+plt.show()
 
 from matplotlib import pyplot as plt
 
