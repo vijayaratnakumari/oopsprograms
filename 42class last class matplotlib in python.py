@@ -96,7 +96,7 @@ plt.pie(slices,
         colors=cols,
         startangle=90,
         shadow=True,
-        explode=(0, 0.2, 0, 0),
+        explode=(0, 0, 0, 0),
         autopct='%1.1f%%'
         )
 
